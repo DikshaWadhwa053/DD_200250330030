@@ -1,0 +1,1 @@
+cmd_/home/diksha/Device_Drivers/Programs/00-Hello_World/Hello.mod := { echo  /home/diksha/Device_Drivers/Programs/00-Hello_World/Hello.o; echo; } > /home/diksha/Device_Drivers/Programs/00-Hello_World/Hello.mod
